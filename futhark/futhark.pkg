@@ -1,0 +1,3 @@
+require {
+  github.com/diku-dk/monoidal 0.0.1 #31fb73d26bd9952a5e6927f8905e6b77650d7719
+}

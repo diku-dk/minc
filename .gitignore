@@ -1,0 +1,7 @@
+.#*
+*~
+MLB
+*.o
+minc
+futhark/monoid.h
+futhark/monoid.json

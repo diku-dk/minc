@@ -1,0 +1,3 @@
+require {
+  github.com/diku-dk/sml-getopt 1.0.0 #42e661f0e3f11b0b6db30239d14c5f373e72e52e
+}
